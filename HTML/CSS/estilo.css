@@ -1,0 +1,17 @@
+
+h1{
+    color: gold;
+    font-size: 40;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+p{
+    color: aqua;
+}
+body{
+    background-color: black;
+}
+img{
+    border-radius: 5%;
+    border: 2px solid purple;
+    text-align: top;
+}
